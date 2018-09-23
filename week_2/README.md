@@ -1,7 +1,6 @@
 ## Python_進階軟體開發專題
 
 ### week_2
-- [91app 資料集下載連結](https://drive.google.com/drive/folders/1g7Q81jHDXpJcWdhJEDl8h_wS_XmODgiB)
 - course_2
     - 01 - climate1_getStationInfo.ipynb 爬取氣象站資料 part1
     - 02 - climate2_getClimate.ipynb 爬取氣象站資料 part2
