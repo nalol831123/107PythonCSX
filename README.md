@@ -1,9 +1,7 @@
 # 107-1 Special Topics on Advanced Software Development
-#### The repository is for the NTU course "Special Topics on Advanced Software Development " in 107-1 semester. 
-#### We use the consumption data from 91App to analyze the sales performance and at the same time provides them which help the company in business decisions.
-#### The basic skills for the data producing, mining, and wrangling such as web crawler, text mining, Apriori algorithm, machine learning and data visualization are introduced in the following lectures.
+#### The repository is for the NTU course "Special Topics on Advanced Software Development " in 107-1 semester. We use the consumption data from 91App to analyze the sales performance and at the same time provides them which help the company in business decisions.The basic skills for the data producing, mining, and wrangling such as web crawler, text mining, Apriori algorithm, machine learning and data visualization are introduced in the following lectures.
 - Pecu Tsai - Teacher
-- ChenI Huang - Teaching Assistant
+- Chen-I Huang - Teaching Assistant
 
 ### week_1
 
