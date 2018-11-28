@@ -19,7 +19,8 @@
     ---------------------------------------
     
 ### week_2
-
+- [Example1](https://github.com/nalol831123/107PythonCSX/blob/master/week_2/course_2/Final_project.ipynb "link")
+- [Example2](https://github.com/nalol831123/107PythonCSX/blob/master/week_2/Week2_Demo.ipynb "link")
 - course_2
     - 01 - climate1_getStationInfo.ipynb 爬取氣象站資料 part1
     - 02 - climate2_getClimate.ipynb 爬取氣象站資料 part2
