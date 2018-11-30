@@ -39,9 +39,9 @@
     ---------------------------------------
 
 ### week_4
-- [Example1](https://github.com/nalol831123/107PythonCSX/blob/master/week_2/文字雲範例與任務.ipynb "link")
-- [Example2](https://github.com/nalol831123/107PythonCSX/blob/master/week_2/Week4_2707_Demo.ipynb "link")
-- [Example3](https://github.com/nalol831123/107PythonCSX/blob/master/week_2/twitterAPI.ipynb "link")
+- [Example1](https://github.com/nalol831123/107PythonCSX/blob/master/week_4/文字雲範例與任務.ipynb "link")
+- [Example2](https://github.com/nalol831123/107PythonCSX/blob/master/week_4/Week4_2707_Demo.ipynb "link")
+- [Example3](https://github.com/nalol831123/107PythonCSX/blob/master/week_4/twitterAPI.ipynb "link")
 - course_4
     - Word Cloud
     - Basic Knowledge of TextMining
