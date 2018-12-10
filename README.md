@@ -45,4 +45,7 @@
 - course_4
     - Word Cloud
     - Basic Knowledge of TextMining
-#### In the next few weeks, it's our midterm project. We use account statement to do TextMining
+#### In the next few weeks, it's our midterm project. We collaborate with accountancy students in National Central University, using account statement to do TextMining. The following are our project
+
+- [Midterm Project](https://github.com/nalol831123/107PythonCSX/blob/master/AccountingProjects.md "link")
+
