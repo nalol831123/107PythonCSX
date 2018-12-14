@@ -49,7 +49,7 @@
 ### week_5
 - [Example1](https://github.com/nalol831123/107PythonCSX/blob/master/week_5/course_5/tfidf_test.ipynb "link")
 - [Example2](https://github.com/rt6972177/106-2/blob/master/Week_5/Week_5_TF-IDF.ipynb "link")
-- course_4
+- course_5
     - Exploratory Data Analysis
     - Text Mining - TF-IDF Intro
     ---------------------------------------
@@ -57,4 +57,11 @@
 #### In the next few weeks, it's our midterm project. We collaborate with accountancy students in National Central University, using account statement to do TextMining. The following are our projects.
 
 - [Midterm Project](https://github.com/nalol831123/107PythonCSX/blob/master/AccountingProjects.md "link")
-
+    ---------------------------------------
+### week_7
+- [Example1](https://github.com/nalol831123/107PythonCSX/blob/master/week_7/course_7/rough_svm_example.py "link")
+- [Example2](https://github.com/nalol831123/107PythonCSX/blob/master/week_7/course_7/rough_linear_regression_example.py "link")
+- course_7
+    - Learning from TITANIC Kaggle 
+    - SVM
+    ---------------------------------------
