@@ -57,6 +57,7 @@
 #### In the next few weeks, it's our midterm project. We collaborate with accountancy students in National Central University, using account statement to do TextMining. The following are our projects.
 
 - [Midterm Project](https://github.com/nalol831123/107PythonCSX/blob/master/AccountingProjects.md "link")
+
     ---------------------------------------
 ### week_7
 - [Example1](https://github.com/nalol831123/107PythonCSX/blob/master/week_7/course_7/rough_svm_example.py "link")
