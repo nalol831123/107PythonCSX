@@ -1,5 +1,6 @@
 # 107-1 Special Topics on Advanced Software Development
 ## Final Project
+
 ---------------------------------------
 
 ### Group 1
@@ -11,8 +12,8 @@
 - [商品、業務員推薦 Demo](https://github.com/hsiehkl/nomurafunds_CRM/blob/master/hsiehkl/nomurafunds_CRM.ipynb)
 
     成員：謝昕庭、吳玟萱、郭欣宜、黃侲艗
-
+    
 ### Group 2
 ### 內部控制與會計—論與內控有關的影響因素；[Code Demo](https://github.com/kevinkevin556/STASD/blob/master/week%209/%E5%85%A7%E9%83%A8%E6%8E%A7%E5%88%B6.ipynb)、[Proposal](https://github.com/kevinkevin556/STASD/raw/master/week%209/kaggle_group2.pptx)
 
-    成員：洪振倫、陳易宣、王翎瑋
+    成員：謝昕庭、吳玟萱、郭欣宜、黃侲艗
