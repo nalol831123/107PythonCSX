@@ -1,5 +1,4 @@
-# 107-1 Special Topics on Advanced Software Development
-## Final Project
+# Final Project
 
 ### Group 1
 ### 野村證券CRM分析 - 尋找最適合您的商品與業務員
