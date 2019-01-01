@@ -66,3 +66,9 @@
     - Learning from TITANIC Kaggle 
     - SVM
 ---------------------------------------
+### Final Project
+#### In the next few weeks, it's our midterm project. We collaborate with accountancy students in National Central University, using account statement to do TextMining. The following are our projects.
+
+- [Midterm Project](https://github.com/nalol831123/107PythonCSX/blob/master/AccountingProjects.md "link")
+
+---------------------------------------
