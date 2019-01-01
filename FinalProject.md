@@ -7,7 +7,9 @@
 - [業務員分析 Code Demo](https://github.com/hsiehkl/nomurafunds_CRM/blob/master/wws/nomurafunds_CRM_1225.ipynb)
 - [客戶分析 Code Demo](https://github.com/hsiehkl/nomurafunds_CRM/blob/master/1229%20-%20%E5%AE%A2%E6%88%B6%E5%88%86%E6%9E%90%E5%92%8C%E9%9B%B7%E9%81%94%E5%9C%96%E6%9C%80%E6%96%B0.ipynb)
 - [商品、業務員推薦 Code Demo](https://github.com/hsiehkl/nomurafunds_CRM/blob/master/hsiehkl/nomurafunds_CRM.ipynb)
-    - 成員：謝昕庭、吳玟萱、郭欣宜、黃侲艗
+
+ >> 成員：謝昕庭、吳玟萱、郭欣宜、黃侲艗
+   
 ---------------------------------------
 
 ### Group 2
