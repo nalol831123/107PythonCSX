@@ -14,7 +14,7 @@
 
 ### Group 2
 #### 大數據x大AI時代x大學落點分析
-- [Proposal]()
+- [Proposal](https://github.com/nalol831123/107PythonCSX/blob/master/%E9%80%B2%E9%9A%8E%E8%BB%9F%E9%AB%94%E9%96%8B%E7%99%BCfinal.pptx)
 - [Code Demo]()
 
    - 成員：司福民、陳俊翰、李東霖、洪振倫
