@@ -66,6 +66,26 @@
     - Learning from TITANIC Kaggle 
     - SVM
 ---------------------------------------
+### week_8
+- [Example1](https://github.com/nalol831123/107PythonCSX/blob/master/week_8/keras_Titanic_v1.ipynb "link")
+- [Example2](https://github.com/nalol831123/107PythonCSX/blob/master/week_8/Pytorch_Titanic_v1.ipynb "link")
+- course_8
+    - Keras practices with Mnist Dataset using MLP and CNN
+    - pytorch_basic_practice Pytorch practices by Jiyu
+    - Pytorch_Titanic_v1.ipynb Titanic datasets survival prediction with pytorch
+    - keras_Titanic_v1.ipynb Titanic datasets survival prediction with keras   
+---------------------------------------
+### week_11
+- [Example1](https://github.com/nalol831123/107PythonCSX/blob/master/week_11/AprioriExample.ipynb "link")
+- [Example2](https://github.com/nalol831123/107PythonCSX/blob/master/week_11/Apriori.html "link")
+- course_11
+    - Apriori
+---------------------------------------
+### week_12
+- [Example1](https://github.com/nalol831123/107PythonCSX/blob/master/week_12/NER.ipynb "link")
+- course_12
+    - use NLTK to do NER
+---------------------------------------
 ### Final Project
 #### In the next few weeks, it's our midterm project. We collaborate with accountancy students in National Central University, using account statement to do TextMining. The following are our projects.
 
